@@ -1,0 +1,17 @@
+body{
+    background-size: cover;
+}
+.heading{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.btn-primary{
+ font-family: 'Courier New', Courier, monospace;
+ font-size:large;
+ border-radius: 10px;
+ margin: 10px;
+ width: 200px;
+ height: 40px;
+ text-align: center;
+}
